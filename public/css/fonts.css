@@ -1,0 +1,285 @@
+/* Reddit Sans */
+
+@font-face {
+    font-family: 'Reddit Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans Bold'), url('/fonts/RedditSans-Bold_777487278.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans BoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans BoldItalic'), url('/fonts/RedditSans-BoldItalic_2736503050.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans ExtraBold'), url('/fonts/RedditSans-ExtraBold_2375659703.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans ExtraBoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans ExtraBoldItalic'), url('/fonts/RedditSans-ExtraBoldItalic_2026650131.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans Italic'), url('/fonts/RedditSans-Italic_882610565.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans Light'), url('/fonts/RedditSans-Light_298275366.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans LightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans LightItalic'), url('/fonts/RedditSans-LightItalic_3755564418.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans Regular'), url('/fonts/RedditSans-Regular_1056393986.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans SemiBold'), url('/fonts/RedditSans-SemiBold_981331264.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Reddit Sans SemiBoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Reddit Sans SemiBoldItalic'), url('/fonts/RedditSans-SemiBoldItalic_3824985756.ttf')  format('truetype');
+}
+
+/* SF Pro Display */
+
+@font-face {
+    font-family: 'SF Pro Display Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Black'), url('/fonts/SF-Pro-Display-Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display BlackItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display BlackItalic'), url('/fonts/SF-Pro-Display-BlackItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Bold'), url('/fonts/SF-Pro-Display-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display BoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display BoldItalic'), url('/fonts/SF-Pro-Display-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Heavy'), url('/fonts/SF-Pro-Display-Heavy.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display HeavyItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display HeavyItalic'), url('/fonts/SF-Pro-Display-HeavyItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Light'), url('/fonts/SF-Pro-Display-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display LightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display LightItalic'), url('/fonts/SF-Pro-Display-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Medium'), url('/fonts/SF-Pro-Display-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display MediumItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display MediumItalic'), url('/fonts/SF-Pro-Display-MediumItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Regular'), url('/fonts/SF-Pro-Display-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display RegularItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display RegularItalic'), url('/fonts/SF-Pro-Display-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Semibold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Semibold'), url('/fonts/SF-Pro-Display-Semibold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display SemiboldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display SemiboldItalic'), url('/fonts/SF-Pro-Display-SemiboldItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Thin'), url('/fonts/SF-Pro-Display-Thin.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display ThinItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display ThinItalic'), url('/fonts/SF-Pro-Display-ThinItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display Ultralight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display Ultralight'), url('/fonts/SF-Pro-Display-Ultralight.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Display UltralightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Display UltralightItalic'), url('/fonts/SF-Pro-Display-UltralightItalic.otf') format('opentype');
+}
+
+/* SF Pro Text */
+
+@font-face {
+    font-family: 'SF Pro Text Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text Bold'), url('/fonts/SF-Pro-Text-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text BoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text BoldItalic'), url('/fonts/SF-Pro-Text-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text Heavy'), url('/fonts/SF-Pro-Text-Heavy.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text HeavyItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text HeavyItalic'), url('/fonts/SF-Pro-Text-HeavyItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text Light'), url('/fonts/SF-Pro-Text-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text LightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text LightItalic'), url('/fonts/SF-Pro-Text-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text Medium'), url('/fonts/SF-Pro-Text-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text MediumItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text MediumItalic'), url('/fonts/SF-Pro-Text-MediumItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text Regular'), url('/fonts/SF-Pro-Text-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text RegularItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text RegularItalic'), url('/fonts/SF-Pro-Text-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text Semibold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text Semibold'), url('/fonts/SF-Pro-Text-Semibold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Pro Text SemiboldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF Pro Text SemiboldItalic'), url('/fonts/SF-Pro-Text-SemiboldItalic.otf') format('opentype');
+}

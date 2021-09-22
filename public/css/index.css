@@ -1,0 +1,47 @@
+body {
+    padding: 24px;
+    background: #fff;
+}
+
+.reddit-red {
+    color: #FF4500;
+    fill: #FF4500;
+}
+
+svg {
+    width: 32px;
+    height: 32px;
+}
+
+button {
+    appearance: initial;
+    -webkit-writing-mode: initial;
+    text-rendering: initial;
+    color: initial;
+    letter-spacing: initial;
+    word-spacing: initial;
+    line-height: initial;
+    text-transform: initial;
+    text-indent: 0px;
+    text-shadow: none;
+    display: initial;
+    text-align: initial;
+    align-items: initial;
+    cursor: pointer;
+    box-sizing: initial;
+    background-color: initial;
+    margin: 0;
+    padding: 0;
+    border-width: initial;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+
+    font: 'SF Pro Display Regular';
+    font-size: 18px;
+    color: #fff;
+    min-height: 32px;
+    border-radius: 20px;
+    padding: 0 12px;
+    background-image: linear-gradient(to right, #EC0623, #FF8717);
+}
