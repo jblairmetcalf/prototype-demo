@@ -8,9 +8,40 @@ body {
     fill: #FF4500;
 }
 
-svg {
+.logo {
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.logo svg {
     width: 32px;
     height: 32px;
+    margin-right: 12px;
+}
+
+.logo span {
+    font-family: 'Reddit Sans Bold';
+    font-size: 24px;
+}
+
+ol {
+    list-style: decimal;
+    margin-left: 14px;
+    margin-bottom: 24px;
+}
+
+li {
+    font-family: 'SF Pro Display Regular';
+    font-size: 12px;
+}
+
+li img {
+    max-width: 32px;
+}
+
+h1:last-of-type {
+    margin-bottom: 24px;
 }
 
 button {
